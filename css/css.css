@@ -566,7 +566,7 @@ li .img-responsive
 
 @media (min-width:1200px)
 {
-     h1{font-size:8em; } 
+     h1{font-size:7em; } 
      p{font-size: 3.5em;}
     .col-yellow{height: 150px; visibility: visible;}
     .col-green{height: 130px;}
