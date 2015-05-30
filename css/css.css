@@ -566,7 +566,7 @@ li .img-responsive
 
 @media (min-width:1200px)
 {
-     h1{font-size:9em; } 
+     h1{font-size:8em; } 
      p{font-size: 3.5em;}
     .col-yellow{height: 150px; visibility: visible;}
     .col-green{height: 130px;}
@@ -867,7 +867,7 @@ tr td
 .banner-title-center
 {
     text-align: center;
-    font-size: 25px;
+    font-size:2em;
 
 }
 
