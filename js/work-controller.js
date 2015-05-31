@@ -87,7 +87,7 @@ work.directive('fancybox', function ($compile, $http) {
              $scope.openFancybox = function (url) {
 
                 $http.get(url).then(function(response) {
-                    console.log("etor");
+                    
                     if (response.status == 200) 
                     {
 
