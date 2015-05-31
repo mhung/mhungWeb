@@ -179,7 +179,7 @@
     <div class="col-md-4 col-sm-4 col-xs-12 col">
            <div class="">
         
-            <a fancybox ng-click="openFancybox('projectOne.php')" href="">
+            <a fancybox ng-click="openFancybox('project-cocina.php')" href="">
             
                  <img src="images/cocina-economica.png" class="img-responsive img"/>
                
