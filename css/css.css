@@ -245,6 +245,7 @@ li a:hover
     text-decoration: none;
 }
 
+
 li .img-responsive
 {
     display: block;
@@ -252,6 +253,11 @@ li .img-responsive
     height: auto;   
 }
 
+
+body#home a.about, body#experience a.experience, body#work a.work
+{
+    color:yellow;
+}
 .footer
 {
    
@@ -400,6 +406,26 @@ li .img-responsive
     text-decoration: none;
 }
 
+.btn-yellow
+{
+    background-color:#ffffff;
+    border: 5px solid #fad424 !important;
+    border-radius: 5px; 
+    color:#fad424 !important;
+    font-family:'oxygen-bold';
+    
+    text-align: center;
+}
+
+.btn-yellow:hover
+{
+    background-color:#fad424 !important;
+    border: 5px solid #fad424 !important;
+    border-radius: 5px; 
+    color:white !important;
+    text-align: center;
+    text-decoration: none; 
+}
 
 
 .btn

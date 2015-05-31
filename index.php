@@ -9,7 +9,7 @@
 
     
 </head>
-<body ng-app="homeApp" ng-controller="clickWorks">
+<body id="home" ng-app="homeApp" ng-controller="clickWorks">
 <!--MENU -->
 <section id="menu">
     <?php include("./include/menu-header.php");?>

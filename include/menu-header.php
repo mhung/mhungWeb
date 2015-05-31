@@ -6,9 +6,9 @@
     <div class="col-xs-10 icons-align"> 
         <div id="menu" class="menu" ng-mode="menu" ng-show="true" ng-if="windowWidth>1000">
             <ul>
-                <li><a href="index.php">ABOUT ME</a></li>
-                <li><a href="work.php">WORK</a></li>
-                <li><a href="experience.php">EXPERIENCE</a></li>
+                <li><a class="about" href="index.php">ABOUT ME</a></li>
+                <li ><a class="work" href="work.php">WORK</a></li>
+                <li><a class="experience" href="experience.php">EXPERIENCE</a></li>
                 <li><a href="#footer" scrollOnClick>CONTACT ME</a></li>
            </ul>
         </div>

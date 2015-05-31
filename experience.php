@@ -9,7 +9,7 @@
 
     
 </head>
-<body ng-app="homeApp" ng-controller="skills">
+<body id="experience" ng-app="homeApp" ng-controller="skills">
 <!--MENU -->
 <section id="menu">
     <?php include("./include/menu-header.php");?>
@@ -108,8 +108,10 @@
     </section>
     
     
-    
-
+<!-- FOOTER-->
+<section id="footer">
+    <?php include ("contact-form.php");?>
+</section>
     
 </body>
 </html>

@@ -36,7 +36,7 @@ to work with you
                         <tr>
                            
                             <td>
-                                <a id="btn-contact-form" href="#" class="btn btn-sm">Send</a>
+                                <a id="btn-contact-form" href="#" class="btn-yellow btn-sm">Send</a>
 
                             </td>
                         </tr>
