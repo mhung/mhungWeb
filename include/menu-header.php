@@ -19,7 +19,7 @@
             <ul class="panel-menu">
                 <li class="menu-items" ><a href="index.php">Home</a></li>
                 <li class="menu-items"><a href="work.php">Work</a></li>
-                <li class="menu-items"><a href="index.php">About</a></li>
+                <li class="menu-items"><a href="experience.php">Experience</a></li>
                 <li class="menu-items"><a href="#footer" scrollOnClick> Contact me</a></li>
             </ul>
         </div>
