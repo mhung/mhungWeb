@@ -70,7 +70,7 @@
     
 </div>
 <!--END FIND ME PANEL-->
-<div class="clear"></div>
+
     
 
 <!--CONTENT-->
@@ -108,13 +108,12 @@
 </section>
 <!-- END RECENT WORK BLOCK-->    
    
-<div class="clear"></div>
     
 <!--DESCRIPTION ABOUT WHAT I DO-->   
 <section id="expertise">
  <div class="col-yellow"></div>
     
-<div class="container content-background container-top">
+<div class="container content-background-expertise container-top">
     
         <div class="col-xs-12 col-md-4" >
             <div class="content-right">

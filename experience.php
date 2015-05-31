@@ -43,7 +43,6 @@
 
 			<div class="cd-timeline-content">
 				<h2>ORAIKO</h2>
-               
 				<p>Currently working as Web Developer</p>
 				<a href="#0" class="cd-read-more">Read more</a>
 				<span class="cd-date">2015</span>

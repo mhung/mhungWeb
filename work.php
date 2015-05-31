@@ -101,7 +101,7 @@
     
  <div class="col-yellow"></div>
     
-<div class="container content-background ">
+<div class="container content-background-expertise">
     
   
     <br/>
@@ -148,7 +148,7 @@
     
     
     
-<div class="container content-background ">
+<div class="container content-background-expertise ">
     <div class="row">
     
     <div class="col-md-12 align">
